@@ -1,4 +1,5 @@
 #Max Consecutive Ones
+#Solved
 def findMaxConsecutiveOnes(nums):
     nums.append(0)
     count_one_list = []
